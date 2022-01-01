@@ -1,13 +1,12 @@
-EvilURL v3.0
+GCS-EvilURL v1.0
 ==
 Generate unicode domains for IDN Homograph Attack and detect them.
 
-The EvilURL is released under a BSD-style license. See
-[LICENSE](LICENSE) for more details.
+
 
 ### CLONE
 ```
-git clone https://github.com/UndeadSec/EvilURL.git
+git clone https://github.com/GCSCOUNCIL/gcs-evilurl.git
 ```
 ### INSTALL
 ```
@@ -15,19 +14,18 @@ pip install python-nmap python-whois
 ```
 ### RUNNING
 ```
-cd EvilURL
+cd gcs-evilurl
 ```
 ```
-python3 evilurl.py
+python3 gcs-evilurl.py
 ```
-### VIDEO
-https://www.youtube.com/watch?v=COyFfSlexTw
+
 
 ### DISCLAIMER
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
-The use of the EvilURL is COMPLETE RESPONSIBILITY of the END-USER. Developer assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+The use of the GCS-EvilURL is COMPLETE RESPONSIBILITY of the END-USER. Developer assume NO liability and are NOT responsible for any misuse or damage caused by this program.
 
 "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
 FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
