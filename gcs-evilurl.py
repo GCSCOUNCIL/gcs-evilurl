@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 #------------------------------------------------------
-#      BY: UNDEADSEC from BRAZIL :)
-#      YouTube: https://www.youtube.com/c/UndeadSec
-#      Github: https://github.com/UndeadSec/EvilURL
+#      BY: GCSCOUNCIL :)
+#   
+#      Github: https://github.com/GCSCOUNCIL
 #------------------------------------------------------
 from platform import python_version
 from sys import exit, argv
